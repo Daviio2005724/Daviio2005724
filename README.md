@@ -17,11 +17,6 @@
 
 ## 📌 Proyectos
 
-* 🎮 Simulador de sobres Mundial 2026
-* 🌐 Web interactiva del álbum del Mundial
-* 🗂️ Gestor de notas universitario
-* 🔐 Encriptador con cuadrado de Polibio
-
 ---
 
 ## 📈 Objetivos
@@ -34,11 +29,10 @@
 
 ## 📫 Contacto
 
-* Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
-* GitHub: https://github.com/TU_USUARIO
+* Email: [davidsaidassis@gmail.com](davidsaidassis@gmail.com)
+* GitHub: [TDaviio2005724](https://github.com/Daviio2005724)
 
 ---
 
-## 💡 Nota
 
 Siempre intentando aprender algo nuevo cada día.
