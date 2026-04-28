@@ -30,7 +30,7 @@
 ## 📫 Contacto
 
 * Email: [davidsaidassis@gmail.com](davidsaidassis@gmail.com)
-* GitHub: [TDaviio2005724](https://github.com/Daviio2005724)
+* GitHub: [Daviio2005724](https://github.com/Daviio2005724)
 
 ---
 
