@@ -1,8 +1,8 @@
 # 👋 Hola, soy David
 
-💻 Estudiante de ingeniería
-🚀 Apasionado por la programación y la tecnología
-🎯 Enfocado en aprender desarrollo web, software y proyectos reales
+💻 Estudiante de ingeniería de Sistémas.
+🚀 Apasionado por la programación y la tecnología.
+🎯 Enfocado en aprender desarrollo web, software y proyectos reales.
 
 ---
 
@@ -16,20 +16,6 @@
 
 ---
 
-## 📊 Mis stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Racha de commits
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO\&theme=tokyonight)
-
----
-
 ## 📌 Proyectos destacados
 
 * 🚀 Proyecto 1 - descripción breve
@@ -40,11 +26,8 @@
 
 ## 📫 Contacto
 
-📧 [tuemail@gmail.com](mailto:tuemail@gmail.com)
-💼 LinkedIn (si tienes)
+📧 [tuemail@gmail.com](davidsaidassis@gmail.com)
 
 ---
 
-## 🧩 Frase random
-
-> "El código es como el humor: si tienes que explicarlo, no es bueno."
+> "Si lo puedes imaginar, lo puedes programar."
