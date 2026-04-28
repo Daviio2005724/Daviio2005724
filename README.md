@@ -3,6 +3,7 @@
 💻 Estudiante de ingeniería de Sistémas.
 🚀 Apasionado por la programación y la tecnología.
 🎯 Enfocado en aprender desarrollo web, software y proyectos reales.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Bienvenido%20a%20mi%20GitHub&fontSize=30&fontColor=ffffff)
 
 ---
 
